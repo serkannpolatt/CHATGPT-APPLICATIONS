@@ -4,4 +4,5 @@
 
 ## Contains chatgpt apps in this repository.
 
-![ezgif com-resize (2)](https://user-images.githubusercontent.com/92849974/217344296-ab19f4f1-b096-4c63-8ed6-775a5852b16b.gif)
+
+![ezgif com-resize (1)](https://user-images.githubusercontent.com/92849974/217344576-382ed511-6f71-4e0c-bfa4-0e2e44fd558d.gif)
