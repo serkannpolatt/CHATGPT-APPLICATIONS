@@ -6,6 +6,7 @@ app = Flask(__name__)
 # OpenAI API anahtarını burada ayarlayın
 openai.api_key = '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'
 
+
 # OpenAI API'ye gönderilecek varsayılan motor ayarları
 engine = 'davinci-codex'
 
