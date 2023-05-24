@@ -4,6 +4,7 @@
 ## Contains chatgpt apps in this repository.
 
 ### -------------------------------------------------------------------------------------------------------
+# CHATGPT UYGULAMASI
 
 ## ChatGPT uygulaması, OpenAI'nin geniş dil modeli ChatGPT tarafından desteklenen, sohbete dayalı bir AI uygulamasıdır. Uygulama, kullanıcıların doğal dilde soru sormasına ve yanıt almasına olanak tanır.
 ## Bu depoda chatgpt uygulamaları içerir.
