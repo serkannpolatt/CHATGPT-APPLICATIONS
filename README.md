@@ -1,9 +1,11 @@
+## ENGLISH
 # CHATGPT APPLICATION
 
 ## ChatGPT application is a conversational AI application powered by OpenAI's large language model, ChatGPT. The application allows users to ask questions and receive answers in natural language.
 ## Contains chatgpt apps in this repository.
 
 ### -------------------------------------------------------------------------------------------------------
+## TÜRKÇE
 # CHATGPT UYGULAMASI
 
 ## ChatGPT uygulaması, OpenAI'nin geniş dil modeli ChatGPT tarafından desteklenen, sohbete dayalı bir AI uygulamasıdır. Uygulama, kullanıcıların doğal dilde soru sormasına ve yanıt almasına olanak tanır.
