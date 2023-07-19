@@ -1,0 +1,38 @@
+
+QUESTİON: 
+
+Please write an email to my manager to request a salary increase by highlighting my 
+achievements in automating office tasks using Python. These efforts have resulted in 
+increased efficiency and capacity for the organization, specifically through the 
+automatic distribution of cost center reports via email, the creation of interactive charts from Excel files,
+and the generation of monthly business report PowerPoint presentations.
+
+
+ANSWER:
+
+    Subject: Request for Salary Increase
+
+    Dear [Manager's Name],
+
+    I hope this email finds you well. I am writing to request a salary increase, as I believe my 
+    contributions to the organization have been significant and valuable.
+
+    
+    In particular, I have been working on automating various office tasks using Python. 
+    These efforts have resulted in increased efficiency and capacity for the organization, specifically through:
+
+    -The automatic distribution of cost center reports via email
+    -The creation of interactive charts from Excel files
+    -The generation of monthly business report PowerPoint presentations
+    
+    These automation efforts have not only saved time for myself and my colleagues, but have 
+    also improved the overall accuracy and accessibility of important information for the company. 
+    I am proud of these accomplishments and believe they warrant a salary increase.
+
+    Please let me know if there are any further details you need from me in order to consider my request. 
+    I am happy to provide any additional information or evidence of my achievements.
+
+    Thank you for your time and consideration.
+
+    Sincerely,
+    [Your Name]
